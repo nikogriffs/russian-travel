@@ -5,7 +5,7 @@
 
 ## **Инструкция:**
 Одностраничный сайт. Для просмотра запустите index.html через любой удобный браузер.
-[Ссылка на GitPages](https://nikogriffs.github.io/russian-travel/index)
+[Ссылка на GitPages](https://nikogriffs.github.io/russian-travel/index.html)
 
 ## **Планы по доработке:**
 JavaScript. Доработка функционала с помощью JS. Продолжить практиковаться с README.
