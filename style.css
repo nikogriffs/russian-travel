@@ -139,6 +139,10 @@
   font-style: normal;
 }
 
+.intro__list-number {
+  font-weight: normal;
+}
+
 .photo-grid {
   margin: 0 auto;
   max-width: 1184px;
