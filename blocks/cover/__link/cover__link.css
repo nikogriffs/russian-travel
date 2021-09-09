@@ -17,7 +17,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  opacity: .8;
+  opacity: 0.8;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -28,7 +28,7 @@
 }
 
 .cover__link:hover::before {
-  opacity: .3;
+  opacity: 0.3;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
